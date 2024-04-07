@@ -1,70 +1,54 @@
 <h1>
-  <span>姓名</span>
+  <span>Zilyu Ye</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>微信</span>xxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:ko.momo@qq.com">ko.momo@qq.com</a></li>
-    <li><span>Github</span><a>github.com/komomoo</a></li>
+    <li><span>Tel</span>+86 18138209188</li>
+    <li><span>Wechat</span>yzl041030</li>
+    <li><span>E-mail</span><a href="202230283325@mail.scut.edu.cn">202230283325@mail.scut.edu.cn</a></li>
+    <li><span>Github</span><a>github.com/YeLuoSuiYou</a></li>
   </ul>
 </h1>
 
-## 教育经历
 
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
 
-## 工作经历
+## Educational Experience
 
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
+Undergraduate: South China University of Technology Artificial Intelligence <span class="right">2022.09 - 2026.06 (expected)</span>
 
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
+GPA: 3.59/4.0
 
-## 项目经验
+Major Course: Python Programming (4.0/4.0), Course Design of Advanced Language Programming (4.0/4.0 best project), Calculus (4.0/4.0), Artificial Intelligence and 3D Vision (4.0/4.0) ...
 
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
+## Research Interests
 
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+ Computer Vision, Multimodal Learning, Image/Video Generation, Generative Adversarial Model
 
----
+## Experience
 
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
+### Research Intern, SCUT, supervised by Prof. Patrick Chan <span> </span><span class="right">2023.03 - 2023.08</span>
 
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- Gained a thorough understanding of the principles and theoretical foundations of Generative Adversarial Networks (**GAN**).
+- Implemented GAN-based models for image shadow removal, capable of effectively removing shadows from input images.
+- Evaluated and improved model performance by exploring different network architectures, loss functions, and optimization algorithms.
 
 ---
 
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
+### Research Intern, SCUT, supervised by Prof. Qi Liu <span> </span><span class="right">2023.09 - current</span>
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+- Image generation, video generation, multimodal deep learning
+- Explore the use of diffusion models for image/video generation
+- Exploring building high-quality subject-driven image/video generation datasets
 
----
+## Awards and Competitions
 
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2015.01 - 2016.01</span>
+1. Asia and Pacific Mathematical Modeling Contest --Third Prize
+2. National College Student Robot Contest (ROBOCON) --Third Prize
+3. National Undergraduate Mathematical Modeling Contest In Guangdong Province -- Second Prize
+4. SCUT Future Technology Institute "Alibaba Cloud Cup" Programming Competition -- Third Prize
+5. SCUT Scholarship -- Third Prize
+6. Excellence Group Scholarship, SCUT -- Third Prize
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+## Technical Skills
 
-## 技能描述
-
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
-
-## 自我评价
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+- Have strong coding skills and practical experience in deep learning code
+- Understand the basic concepts of machine learning and deep learning, and have a good mathematical foundation
+- Basically able to use C++, Python, JavaScript, Go, and master deep learning and development frameworks such as PyTorch and Vue.
